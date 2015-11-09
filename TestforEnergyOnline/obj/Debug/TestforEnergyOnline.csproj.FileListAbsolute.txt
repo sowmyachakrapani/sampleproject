@@ -1,0 +1,7 @@
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\TestforEnergyOnline\bin\TestforEnergyOnline.dll
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\TestforEnergyOnline\bin\TestforEnergyOnline.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\TestforEnergyOnline\bin\EnergyOnlineBusinessLogic.dll
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\TestforEnergyOnline\bin\EnergyOnlineBusinessLogic.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\TestforEnergyOnline\obj\Debug\TestforEnergyOnline.csprojResolveAssemblyReference.cache
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\TestforEnergyOnline\obj\Debug\TestforEnergyOnline.dll
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\TestforEnergyOnline\obj\Debug\TestforEnergyOnline.pdb

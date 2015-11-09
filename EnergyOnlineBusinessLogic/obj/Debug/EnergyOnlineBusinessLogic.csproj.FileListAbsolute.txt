@@ -1,0 +1,5 @@
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\EnergyOnlineBusinessLogic\bin\EnergyOnlineBusinessLogic.dll
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\EnergyOnlineBusinessLogic\bin\EnergyOnlineBusinessLogic.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\EnergyOnlineBusinessLogic\obj\Debug\EnergyOnlineBusinessLogic.dll
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\EnergyOnlineBusinessLogic\obj\Debug\EnergyOnlineBusinessLogic.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\TestforEnergyOnline\EnergyOnlineBusinessLogic\obj\Debug\EnergyOnlineBusinessLogic.csprojResolveAssemblyReference.cache
